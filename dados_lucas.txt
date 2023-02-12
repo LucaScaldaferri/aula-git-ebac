@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Lucas
+-Profissão: Engenheiro de Produção
+-Cidade: Taubaté/SP
+-O que faz nas horas vaga: Assisto Filmes e séries
+-Feedback sobre o curso Qualidade de Software: Até o momento está sendo uma experiência incrível!
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é muito boa, as vezes apresenta erro na opção Snapshot das aulas
+
+Muito Obrigado!!!
+
+
